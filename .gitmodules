@@ -1,0 +1,6 @@
+[submodule "Estradiol-DIY"]
+	path = Estradiol-DIY
+	url = https://github.com/KristallWang/Estradiol-DIY
+[submodule "estrogel-diy-guide-zh_CN"]
+	path = estrogel-diy-guide-zh_CN
+	url = https://github.com/lydlid/estrogel-diy-guide-zh_CN
